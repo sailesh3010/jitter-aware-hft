@@ -1,0 +1,9 @@
+{
+  "duration_s": 5.0,
+  "base_latency_us": 100.0,
+  "jitter_stddev_us": 25.0,
+  "packet_loss_rate": 0.0005,
+  "reorder_rate": 0.0005,
+  "threshold_imbalance": 0.25,
+  "seed": 42
+}
